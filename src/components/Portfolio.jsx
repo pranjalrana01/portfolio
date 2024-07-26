@@ -44,7 +44,7 @@ const Portfolio = () => {
               />
               <a href={href} className="flex items-center justify-center">
                 <button className="w-1/2 px-6 py-3 m-4 hover:scale-110 duration-500 ">
-                  Source code
+                  link
                 </button>
               </a>
             </div>
